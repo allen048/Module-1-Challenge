@@ -5,8 +5,7 @@ Written Report:
 My first conclusion is that the Crowdfunding Campaign has a higher percentage of successful outcomes based on their goals. 
 Second conclusion is it has a lower percentage of canceled outcomes for their goals. My final conclusion is that the theater/plays is a positive outlier for this analysis. 
 
-Some limitations for this dataset include that it doesn’t have the most recent data for this analysis, as the data only covers information from 2010-2020.  
-We’re limited to the backers count and can’t go deeper by each individual investor. Also, we need more data to determine how much each individual backer pledged.
+Some limitations for this dataset include that it doesn’t have the most recent data for this analysis, as the data only covers information from 2010-2020. We’re limited to the backers count and can’t go deeper by each individual investor. Also, we need more data to determine how much each individual backer pledged.
 
 My suggestions for creating a table or graph for this assignment is to develop a stacked-column pivot chart that can be filtered by currency based on the 
 category/outcome pivot table that you must create. Also we can develop a stacked-column pivot chart that can be filtered by currency and parent category 
