@@ -16,7 +16,5 @@ Statistical Analysis:
 The median better summarizes this information. This collection of data has a skewed distribution and a central tendency. This representation does contain a 
 significant outlier, theater/plays, which constitute as a median being the best approach to summarize this data.
 
-![image](https://github.com/allen048/Module-1-Challenge/assets/143147687/1fe3dd74-6a36-4eb2-9ae1-b64556b32fb5)
-
 
 ---
