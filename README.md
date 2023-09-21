@@ -7,8 +7,8 @@ Second conclusion is it has a lower percentage of canceled outcomes for their go
 
 Some limitations for this dataset include that it doesn’t have the most recent data for this analysis, as the data only covers information from 2010-2020. We’re limited to the backers count and can’t go deeper by each individual investor. Also, we need more data to determine how much each individual backer pledged.
 
-My suggestions for creating a table or graph for this assignment is to develop a stacked-column pivot chart that can be filtered by currency based on the 
-category/outcome pivot table that you must create. Also we can develop a stacked-column pivot chart that can be filtered by currency and parent category 
+My suggestions for creating a table or graph for this assignment is to develop a pie pivot chart that can be filtered by currency based on the 
+category/outcome pivot table that you must create. Also we can develop a pie pivot chart that can be filtered by currency and parent category 
 based on the sub-category/outcome pivot table you must create.
 
 Statistical Analysis:
